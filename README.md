@@ -66,14 +66,36 @@ Amount Paid to Distributor: $  3665.60
 
 Your program should:
 
-- Follow the above instructions:
+- Follow the above instructions (9 pts):
+
   - Display the purpose of the program (1 pt)
   - Display appropriate input prompts for the user (1 pt)
   - Correctly calculate the Gross and Net profit and the amount paid to the distributor (2 pts)
   - Amounts of money shoud be displayed with exactly 2 decimal points and must include the $ sign (2 pt)
     - All three periods must be aligned with each other (2 pts)
-  - The name of the movie must appear with quotation marks (not added by the user input) (1 pt)
-- Comment your code and use spacing appropriatly to imprive readability of your code (1 pt)
-- The display must be aligned the same way as the example output (3 pts)
+  - The name of the movie must appear with quotation marks (not added by the user as input) (1 pt)
+
+- Comment your code and use spacing appropriatly to improve readability of your code (1 pt)
+
+- The display must be aligned the same way as the example output (2 pts)
+
 - Avoid using whitespaces inside string literals to add the padding needed for the correct display output (2 pts)
+
   - All of the padding or spacing must be coded with stream manipulators discussed in class (setw, setprecission, fixed, showpoint, left, right)
+
+- Your code should be propperly documented with comments in a way that promotes readability. It should also containt a header with your information (see example bellow) (1 pts)
+
+  ```c++
+  /*
+  Asignación 1: Binary Digit
+  Nombre: Juan del Pueblo
+  Núm. Est: 801-XX-XXXX
+  Colaboraciones: 
+  - tutor X,
+  - página web: [link]
+  */
+  ```
+
+- Only use concepts discussed in class or in this rubric, otherwise you will loose 1/3 of the points
+
+- If your program doesnt compile or has a run-time error, you will loose half the points. 
