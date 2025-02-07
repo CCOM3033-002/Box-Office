@@ -87,7 +87,7 @@ Your program should:
 
   ```c++
   /*
-  Asignación 1: Binary Digit
+  Lab 1: Box Office
   Nombre: Juan del Pueblo
   Núm. Est: 801-XX-XXXX
   Colaboraciones: 
